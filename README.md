@@ -1,5 +1,11 @@
-## Hi there 👋
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
+## Hi there 👋
+## I’m currently a sophomore at HZNU, majoring in Statistics and interested in Computer Science.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xjn2005&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xjn2005&layout=compact)
 <!--
 **xjn2005/xjn2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
