@@ -1,6 +1,7 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
-## Hi there 👋
+## Hi there 👋 
+![](https://komarev.com/ghpvc/?username=xjn2005&style=flat-square)
 ## I’m currently a sophomore at HZNU, majoring in Statistics and interested in Computer Science.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xjn2005&show_icons=true&theme=radical)  
