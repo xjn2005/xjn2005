@@ -1,7 +1,8 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## Hi there 👋 
-![Github viewers](https://komarev.com/ghpvc/?username=xjn2005&style=for-the-badge) ![GitHub Followers](https://img.shields.io/github/followers/xjn2005?label=Followers&style=for-the-badge&color=blue&logo=Github)
+![Github viewers](https://komarev.com/ghpvc/?username=xjn2005&style=for-the-badge) ![GitHub Followers](https://img.shields.io/github/followers/xjn2005?label=Followers&style=for-the-badge&color=blue&logo=Github)  
+[![知乎 Badge](https://img.shields.io/badge/-Cavill-0084FF?logo=zhihu&logoColor=white&style=for-the-badge)](https://www.zhihu.com/people/ruo-xie-32-48)
 ## I’m currently a sophomore at HZNU, majoring in Statistics and passionate about Computer Science.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xjn2005&show_icons=true&theme=radical)  
