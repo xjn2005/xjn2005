@@ -2,7 +2,9 @@
 
 ## Hi there 👋 
 ![Github viewers](https://komarev.com/ghpvc/?username=xjn2005&style=for-the-badge) ![GitHub Followers](https://img.shields.io/github/followers/xjn2005?label=Followers&style=for-the-badge&color=blue&logo=Github)  
-[![知乎 Badge](https://img.shields.io/badge/-Cavill-0084FF?logo=zhihu&logoColor=white&style=for-the-badge)](https://www.zhihu.com/people/ruo-xie-32-48)
+[![知乎 Badge](https://img.shields.io/badge/-Cavill-0084FF?logo=zhihu&logoColor=white&style=for-the-badge)](https://www.zhihu.com/people/ruo-xie-32-48) [![掘金 Badge](https://img.shields.io/badge/-Cavill-1E80FF?logo=juejin&logoColor=white&style=for-the-badge)](https://juejin.cn/user/3555178569539163) [![小红书 Badge](https://img.shields.io/badge/-Cavill-FF2442?logo=xiaohongshu&logoColor=white&style=for-the-badge)](https://www.xiaohongshu.com/user/profile/669de1520000000024021906?m_source=itab)
+
+
 ## I’m currently a sophomore at HZNU, majoring in Statistics and passionate about Computer Science.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xjn2005&show_icons=true&theme=radical)  
