@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
 ---
