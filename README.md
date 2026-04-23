@@ -10,7 +10,7 @@
 <p align="left">
   <a href="https://www.zhihu.com/people/ruo-xie-32-48"><img src="https://img.shields.io/badge/-Zhihu-0084FF?logo=zhihu&logoColor=white&style=for-the-badge" alt="Zhihu"></a>
   <a href="https://space.bilibili.com/494204243"><img src="https://img.shields.io/badge/-Bilibili-FB7299?logo=bilibili&logoColor=white&style=for-the-badge" alt="Bilibili"></a>
-  <a href="https://juejin.cn/user/3555178569539163"><img src="https://img.shields.io/badge/-Juejin-1E80FF?logo=juejin&logoColor=white&style=for-the-badge" alt="Juejin"></a>
+  <a href="https://www.douban.com/people/164187019/"><img src="https://img.shields.io/badge/-Douban-00B51D?logo=douban&logoColor=white&style=for-the-badge" alt="Douban"></a>
   <a href="https://www.xiaohongshu.com/user/profile/669de1520000000024021906"><img src="https://img.shields.io/badge/-Xiaohongshu-FF2442?logo=xiaohongshu&logoColor=white&style=for-the-badge" alt="Xiaohongshu"></a>
 </p>
 
