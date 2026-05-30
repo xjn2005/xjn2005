@@ -12,11 +12,12 @@
   </a>
 </p>
 
-### 📖 About Me
+### About Me
 
-Sophomore at Hangzhou Normal University (HZNU), deeply in love with Computer Science.
+🏫Sophomore at Hangzhou Normal University (HZNU).   
+😆LOVE CS.
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
@@ -30,10 +31,4 @@ Sophomore at Hangzhou Normal University (HZNU), deeply in love with Computer Sci
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
 </p>
 
-
-### 🔥 Contributions
-
-<p align="left">
-  <img src="https://ghchart.rshah.org/xjn2005" alt="GitHub Contributions Chart">
-</p>
 
